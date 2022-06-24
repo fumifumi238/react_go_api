@@ -1,0 +1,6 @@
+{
+  "go.useLanguageServer": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
